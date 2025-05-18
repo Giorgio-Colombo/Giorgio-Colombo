@@ -1,3 +1,3 @@
 # Giorgio-Colombo
-My personal repository
-Hello
+Hello Public! This is my first README in my first repository!
+
