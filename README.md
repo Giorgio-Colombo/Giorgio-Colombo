@@ -1,7 +1,7 @@
 # Giorgio-Colombo
 Who am I❓
 
-I'm a Human with a deep interest laid in between the links between Finance and Technology.
+I'm a Human with a deep interest laid in between the links between Econometrics, Finance and Technology.
 
 I like to create and engage in communities that help spread true information about the World we live in.
 
