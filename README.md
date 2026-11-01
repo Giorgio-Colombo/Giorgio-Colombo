@@ -19,6 +19,10 @@ Studying **ECODAM** at the University of Milano-Bicocca.
 - **Data visualisation:** Tableau, matplotlib, seaborn
 - **Tools:** Jupyter / Colab, Git and GitHub, Kaggle
 
+## How I work
+
+I use [Claude Code](https://claude.com/claude-code) as an assistant for manual and repetitive tasks, such as formatting, restructuring repositories and drafting documentation. That frees up my time for the work that adds value: choosing the questions, designing the analysis, checking the results and interpreting them. The analytical decisions and the conclusions are mine.
+
 ## Find my work
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/giorgio.colombo/vizzes)
 - 📓 [Kaggle](https://www.kaggle.com/giorgiocolomb0)
